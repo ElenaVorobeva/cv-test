@@ -4,10 +4,10 @@ Female, 24 years old, born on 31 May 1996<br>
 +7(921)636-83-05<br>
 helene3129@gmail.com<br>
 
-> ## About me
-> I decided to change the field I’m working in a year ago for I no longer had any interest to develop spoken languages as much as coding ones.
->
-> I completed the Front-End Developer professional training course and now I want to get some real experience.
+## About me
+I decided to change the field I’m working in a year ago for I no longer had any interest to develop spoken languages as much as coding ones.
+
+I completed the Front-End Developer professional training course and now I want to get some real experience.
 
 ## Key skills
 `HTML` `CSS` `JavaScript` `Webpack` `Git` `React` `Figma` `OOP` `BEM` `ES6`
