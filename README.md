@@ -14,4 +14,12 @@ I completed the Front-End Developer professional training course and now I want 
 
 ## My projects
 - [NewsAnalyzer](https://github.com/ElenaVorobeva/Diploma) is website which shows you the news for the last week according to your search word. Even though the website is in Russian it’s still possible to search the news in other languages.
-- [This](https://github.com/ElenaVorobeva/vidly-app) is a movie-list app with pagination and sorting options. This is a project I’m working on by myself to study React.
+- [Vidly app](https://github.com/ElenaVorobeva/vidly-app) is a movie-list app with pagination and sorting options. This is a project I’m working on by myself to study React.
+
+## Courses
+**Yandex.Praktikum - Frontend developer**
+Having completed the Front-End Developer professional training course from Yandex School of Data Analysis I learned to:
+- create responsive and adaptive design;
+- write reusable code and maintain it;
+- work with API;
+- install and customize webpack;
