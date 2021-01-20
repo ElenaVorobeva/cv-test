@@ -17,9 +17,12 @@ I completed the Front-End Developer professional training course and now I want 
 - [Vidly app](https://github.com/ElenaVorobeva/vidly-app) is a movie-list app with pagination and sorting options. This is a project I’m working on by myself to study React.
 
 ## Courses
-**Yandex.Praktikum - Frontend developer**
+**Yandex.Praktikum**\
 Having completed the Front-End Developer professional training course from Yandex School of Data Analysis I learned to:
 - create responsive and adaptive design;
 - write reusable code and maintain it;
 - work with API;
 - install and customize webpack;
+
+**Mosh Hamedani - Mastering React**\
+I studying this course on my own to have basic knowledge about React. There we create different apps to understand how they work.
