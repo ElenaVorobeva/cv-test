@@ -13,5 +13,5 @@ I completed the Front-End Developer professional training course and now I want 
 `HTML` `CSS` `JavaScript` `Webpack` `Git` `React` `Figma` `OOP` `BEM` `ES6`
 
 ## My projects
-- (NewsAnalyzer)[https://github.com/ElenaVorobeva/Diploma] is website which shows you the news for the last week according to your search word. Even though the website is in Russian it’s still possible to search the news in other languages.
-- (This)[https://github.com/ElenaVorobeva/vidly-app] is a movie-list app with pagination and sorting options. This is a project I’m working on by myself to study React.
+- [NewsAnalyzer](https://github.com/ElenaVorobeva/Diploma) is website which shows you the news for the last week according to your search word. Even though the website is in Russian it’s still possible to search the news in other languages.
+- [This](https://github.com/ElenaVorobeva/vidly-app) is a movie-list app with pagination and sorting options. This is a project I’m working on by myself to study React.
