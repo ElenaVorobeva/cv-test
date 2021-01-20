@@ -25,7 +25,7 @@ Having completed the Front-End Developer professional training course from Yande
 - install and customize webpack;
 
 **Mosh Hamedani - Mastering React**\
-I studying this course on my own to have basic knowledge about React. There we create different apps to understand how they work.
+I'm studying this course on my own to have basic knowledge about React. There we create different apps to understand how they work.
 
 ## Higher education (bachelor)
 **Saint-Petersburg State University of Aerospace Instrumentation (SUAI)**\
