@@ -5,6 +5,9 @@ Female, 24 years old, born on 31 May 1996<br>
 Work experience — 2 years 3 months<br>
 
 ## Junior Frontend Developer
-- Career Starters, Students
-   - IT, Internet, Multimedia
-   - Manufacturing, Technology
+Career Starters, Students
+- IT, Internet, Multimedia
+- Manufacturing, Technology
+
+Employment: full time
+Work schedule: remote working, full day
