@@ -32,5 +32,7 @@ I studying this course on my own to have basic knowledge about React. There we c
 Translation and Translation Studies, Linguist, Interpreter, Translator\
 Year of graduation - 2019
 
-## English level
-Estimated English level - B2
+## Languages
+Russian — Native
+English — C1 — Advanced
+French - B1 -  Intermediate
