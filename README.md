@@ -33,6 +33,6 @@ Translation and Translation Studies, Linguist, Interpreter, Translator\
 Year of graduation - 2019
 
 ## Languages
-Russian — Native
-English — C1 — Advanced
+Russian — Native\
+English — C1 — Advanced\
 French - B1 -  Intermediate
