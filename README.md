@@ -10,4 +10,8 @@ I decided to change the field I’m working in a year ago for I no longer had an
 I completed the Front-End Developer professional training course and now I want to get some real experience.
 
 ## Key skills
-`HTML` `CSS` `JavaScript` `Webpack` `Git`
+`HTML` `CSS` `JavaScript` `Webpack` `Git` `React` `Figma` `OOP` `BEM` `ES6`
+
+## My projects
+- (NewsAnalyzer)[https://github.com/ElenaVorobeva/Diploma] is website which shows you the news for the last week according to your search word. Even though the website is in Russian it’s still possible to search the news in other languages.
+- (This)[https://github.com/ElenaVorobeva/vidly-app] is a movie-list app with pagination and sorting options. This is a project I’m working on by myself to study React.
